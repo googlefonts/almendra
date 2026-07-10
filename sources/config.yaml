@@ -1,0 +1,7 @@
+buildVariable: false
+removeOutlineOverlaps: false
+sources:
+  - Almendra-BoldItalic.glyphs
+  - Almendra-Bold.glyphs
+  - Almendra-Italic.glyphs
+  - Almendra-Regular.glyphs
